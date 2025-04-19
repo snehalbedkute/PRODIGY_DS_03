@@ -9,3 +9,22 @@ The goal is to analyze marketing data and train a machine learning model that pr
 
 **Dataset:**
 The dataset used for this task is the Bank Marketing Dataset from the UCI Machine Learning Repository.
+https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip
+
+**Tools and Libraries Used:**
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Scikit-learn
+Matplotlib & Seaborn
+
+Project Overview:
+The dataset was first preprocessed to handle categorical variables and missing values.Exploratory Data Analysis (EDA) was performed to understand the distribution and correlations of features.A Decision Tree Classifier was trained using the processed dataset.The model was evaluated using accuracy, confusion matrix, and classification report.Feature importance was visualized to understand which attributes influenced the model’s predictions most.
+
+Intern: Snehal Bedkute
+Internship: Prodigy InfoTech Data Science
+
+#ProdigyInfoTech
+
+
